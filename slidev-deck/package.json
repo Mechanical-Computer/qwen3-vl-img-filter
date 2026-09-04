@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build",
+    "build": "slidev build && node scripts/clean.mjs",
     "export": "slidev export"
   },
   "dependencies": {
