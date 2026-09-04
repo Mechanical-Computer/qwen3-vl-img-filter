@@ -13,11 +13,6 @@ fonts:
   provider: 'google'
 drawings:
   persist: false
----
-
-<!-- ============ 1 封面 ============ -->
-
----
 layout: cover
 class: cover-slide
 ---
