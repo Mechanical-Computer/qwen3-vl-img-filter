@@ -12,7 +12,7 @@ mentor提示可以使用多个视觉语言大模型来做交叉验证
 
 **具体细节**：
 
-![structure](E:\TotalProject\LLM\structure.png)
+![structure](./structure.png)
 
 核心概念：
 
