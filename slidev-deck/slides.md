@@ -275,7 +275,7 @@ class: slide-pad
 
 <div class="card">
   <div class="card-title mono">--gpu-memory-utilization 0.75</div>
-  <p>显存总预算：48G × 0.75 = 36G，权重 32G+ 之外留给 KV 池与激活值</p>
+  <p>显存总预算：48G × 0.9 = 43G，权重 32G+ 之外留给 KV 池与激活值</p>
   <div class="note">32B 单卡部署 = 贴线作战</div>
 </div>
 
