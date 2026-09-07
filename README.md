@@ -45,7 +45,7 @@ curl http://127.0.0.1:8000/v1/chat/completions \
 python -m vllm.entrypoints.openai.api_server \
     --model ./Qwen3-VL-32B-Instruct-FP8 \
     --max-model-len 4096 \
-    --gpu-memory-utilization 0.75 \
+    --gpu-memory-utilization 0.90 \
     --port 8000 \
     --allowed-local-media-path /media/
 ```
